@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: URAP of Jilin University
+role: URAP
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Jilin University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
